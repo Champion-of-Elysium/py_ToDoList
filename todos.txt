@@ -1,0 +1,3 @@
+learn
+game
+print
