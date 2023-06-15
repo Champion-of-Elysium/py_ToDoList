@@ -1,6 +1,5 @@
 learn
 game
 print
-add value
 example
 new changes
