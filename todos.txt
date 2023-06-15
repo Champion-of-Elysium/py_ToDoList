@@ -1,5 +1,0 @@
-learn
-game
-print
-example
-new changes
